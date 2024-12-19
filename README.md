@@ -16,8 +16,7 @@ This is a portfolio project showcasing my web development skills. It includes HT
 
 To use this portfolio template:
 
-1. Open the [www.fatemehghasemikoli.com](https://cpsc-349-portfolio-9upfb90oi-fatemeh-ghasemikolis-projects.vercel.app/
-) in your web browser.
+1. Open the([https://cpsc-349-portfolio-9upfb90oi-fatemeh-ghasemikolis-projects.vercel.app/](https://cpsc-349-portfolio-git-main-fatemeh-ghasemikolis-projects.vercel.app/) in your web browser.
 2. Navigate through different sections to view portfolio items, about me, skills, experience, and contact information.
 3. Use the contact form to send messages.
 5. Explore the project carousel to see more detailed information about individual projects.
